@@ -40,4 +40,4 @@ License Creative-Common (CC 4.0)
 Andrea Ortega Sanchez\
 C\ Josep serrano 36,\
 08024 Barcelona, Spain\
-andrea.ortega02@estudiant.upf.edu\
+andrea.ortega02@estudiant.upf.edu
